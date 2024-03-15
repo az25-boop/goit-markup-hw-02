@@ -1,8 +1,7 @@
 body {
     font-family: 
     "Roboto",
-    "Helvetica Neue",  
-    "Verdana", 
+    "Raleway",   
     sans-serif;
     color: rgb(8, 8, 8);
     background-color
@@ -25,3 +24,5 @@ body {
   a:active {
     text-decoration: none;
   }
+
+  
