@@ -1,14 +1,13 @@
 body {
     font-family: 
-    "Helvetica Neue", 
-    "Roboto", 
+    "Roboto",
+    "Helvetica Neue",  
     "Verdana", 
     sans-serif;
     color: rgb(8, 8, 8);
     background-color
-}
+  }
 
- /* Скасовуємо підкреслення у посилань */
  a:link {
     text-decoration: none;
   }
