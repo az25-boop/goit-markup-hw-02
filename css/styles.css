@@ -25,4 +25,30 @@ body {
     text-decoration: none;
   }
 
-  
+  .title {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: var(--white);
+  }
+
+.button {
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    background: var(--iris);
+    
+}
+
+.title-dynamic {
+
+}
+
+
+
