@@ -8,6 +8,21 @@ body {
     background-color
 }
 
-a.decoration {
-    text-decoration: none; /* Скасовуємо підкреслення у посилань */
-    }
+ /* Скасовуємо підкреслення у посилань */
+ a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #2ecc71
+  }
+  
+  a:active {
+    text-decoration: none;
+  }
