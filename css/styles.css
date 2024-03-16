@@ -25,7 +25,7 @@ body {
     text-decoration: none;
   }
 
-  .title {
+  .hero-image-title {
     font-family: var(--font-family);
     font-weight: 700;
     font-size: 56px;
@@ -36,18 +36,225 @@ body {
   }
 
 .button {
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: var(--iris);
-    cursor: pointer;
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: var(--iris);
+  cursor: pointer;
 }
 
-.title-dynamic {
 
+.top-line {
+  border-bottom: 1px solid var(--cornflower);
+  width: 1440px;
+  height: 72px;
+  background: var(--white);
 }
 
+.web {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--iris);
+}
+
+.studio {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--navy-blue);
+}
+
+.studio-li {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
+
+.portfolio-li {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
+
+.contacts-li {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
+
+.mailto {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--slate);
+}
+
+.tel {
+  font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--slate);
+}
+
+.hero-image {
+  width: 1440px;
+  height: 600px;
+}
+
+.section-one {
+  width: 1128px;
+  height: 104px;
+}
+
+.box-strategy {
+  width: 264px;
+  height: 104px;
+}
+
+.strategy {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
+
+.strategy-our {
+  font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--slate);
+}
+
+.box-punctuality {
+  width: 264px;
+  height: 104px; 
+}
+
+.punctuality {
+  font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
+}
+
+.punctuality-bring {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--slate);
+}
+
+.box-diligence {
+  width: 264px;
+height: 104px;
+}
+
+.diligence {
+  font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
+}
+
+.diligence-research {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--slate);
+}
+
+.box-technologies {
+  width: 264px;
+height: 104px;
+}
+
+.technologies {
+  font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
+}
+
+
+.technologies-design {
+  font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--slate);
+}
+
+.section-two {
+  width: 1440px;
+  height: 732px;
+}
+
+.ourteam {
+  font-family: var(--font-family);
+font-weight: 700;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: var(--navy-blue);
+}
+
+.box-team-card {
+  border-radius: 0 0 4px 4px;
+padding: 0px 0px 32px 0px;
+width: 264px;
+height: 380px;
+box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+background: var(--white);
+}
+
+.team-card-mark {
+  width: 264px;
+height: 260px;
+}
+
+.mark {
+  
+}
+
+.mark-designer
 
 
