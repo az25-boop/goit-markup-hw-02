@@ -443,7 +443,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
-color: var(--navy-blue);
+color: #2e2f42;
 }
 
 <!--ROW 1-->
@@ -470,7 +470,7 @@ background: var(--white);
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color:  #2e2f42;
 }
 
 .app {
@@ -479,7 +479,7 @@ background: var(--white);
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color: #434455;
 }
 
 <!--ROW 1-->
@@ -502,7 +502,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #2e2f42;
 }
 
 .marketing-cashless {
@@ -511,7 +511,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
+color: #434455;
 }
 
 <!--ROW 1-->
@@ -537,7 +537,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #2e2f42;
 }
 
 .app-meditaion {
@@ -546,7 +546,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
+color: #434455;
 }
 
 <!--ROW 2-->
@@ -571,7 +571,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #2e2f42;
 }
 
 .marketing-taxi-service {
@@ -580,7 +580,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
+color: #434455;
 }
 
 
@@ -606,7 +606,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #2e2f42;
 }
 
 .design {
@@ -615,7 +615,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
+color: #434455;
 }
 
 <!--ROW 2-->
@@ -640,7 +640,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #2e2f42;
 }
 
 .marketing-onlinecourses {
@@ -649,7 +649,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
+color: #434455;
 }
 
 
