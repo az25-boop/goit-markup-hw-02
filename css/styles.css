@@ -1,6 +1,8 @@
 body {
     font-family: 
-    "Roboto", sans-serif
+    "Roboto", sans-serif;
+    font-family:
+    "Raleway", sans-serif;
     color: #434455;
     background-color: #FFFFFF
   }
@@ -23,43 +25,7 @@ body {
     text-decoration: none;
   }
 
-<!--Main Page-->
-.main {
-  width: 1440px;
-height: 3300px;
-background: var(--white);
-}
-
-<!--heroimage-->
-  .hero-image-title {
-    font-family: var(--font-family);
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 107%;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: var(--white);
-  }
-
-.button {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: var(--iris);
-  cursor: pointer;
-}
-
-<!--Секція номер №1-->
-.title-dynamic {
-}
-
-
-.top-line {
-  width: 1440px;
-  height: 72px;
-}
+<!---header-->
 
 .web {
   font-family: Raleway;
@@ -79,6 +45,26 @@ background: var(--white);
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2E2F42;
+}
+
+
+<!--Main Page-->
+.main {
+  width: 1440px;
+  height: 3300px;
+  background: #2e2f42;
+}
+
+<!--hero_image-->
+.hero-imag {
+  width: 1440px;
+  height: 600px;
+}
+
+<!--header-->
+.top-line {
+  width: 1440px;
+  height: 72px;
 }
 
 .menu-nav {
@@ -113,7 +99,9 @@ height: 24px;
   color: var(--navy-blue);
 }
 
-
+.address {
+  font-style: normal;
+}
 
 .mailto {
   font-family: var(--font-family);
@@ -121,7 +109,11 @@ height: 24px;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color: #434455;
+}
+
+.mailto-to:hover,:focus {
+  color: #404bbf
 }
 
 .telme {
@@ -130,7 +122,19 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
+color: #434455;
+}
+
+telme-me:hover,
+telme-me:focus {
+  color: #404bbf
+}
+
+<!--Секція номер №1-->
+.main {
+  width: 1440px;
+  height: 3300px;
+  background: var(--white);
 }
 
 .hero-image {
@@ -138,9 +142,44 @@ color: var(--slate);
   height: 600px;
 }
 
+.hero-image-title {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500
+  border-radius: 4px;
+  padding: 16px 32px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  width: 169px;
+  height: 56px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background:hover, :focus #4D5AE5;
+  color: #ffffff;
+}
+
 .section-one {
   width: 1128px;
   height: 104px;
+  background-color: #2e2f42;
+}
+
+.title-dynamic {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
 
 .box-strategy {
@@ -154,7 +193,7 @@ color: var(--slate);
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color: #434455;
 }
 
 .strategy-our {
@@ -163,7 +202,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
+color: #434455;
 }
 
 .box-punctuality {
@@ -177,7 +216,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #434455;
 }
 
 .punctuality-bring {
@@ -186,7 +225,7 @@ color: var(--navy-blue);
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color: #434455;
 }
 
 .box-diligence {
@@ -200,7 +239,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #434455;
 }
 
 .diligence-research {
@@ -209,7 +248,7 @@ color: var(--navy-blue);
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color: #434455;
 }
 
 .box-technologies {
@@ -223,7 +262,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #434455;
 }
 
 
@@ -233,14 +272,14 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
+color: #434455;
 }
 
 <!--Секція номер №2-->
 .section-two {
   width: 1440px;
   height: 732px;
-  background: var(--cloud);
+  background: #F4F4FD;
 }
 
 .ourteam {
@@ -251,7 +290,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
-color: var(--navy-blue);
+color: #2e2f42;
 }
 
 <!--Mark Guerrero-->
@@ -261,7 +300,7 @@ padding: 0px 0px 32px 0px;
 width: 264px;
 height: 380px;
 box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-background: var(--white);
+background: #FFFFFF;
 }
 
 .team-card-mark {
@@ -286,7 +325,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
-color: var(--slate);
+color:  #2e2f42;
 }
 
 <!--Tom Ford-->
@@ -296,7 +335,7 @@ padding: 0px 0px 32px 0px;
 width: 264px;
 height: 380px;
 box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-background: var(--white);
+background: #FFFFFF;
 }
 
 .team-card-ford {
@@ -322,7 +361,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
-color: var(--slate);
+color:  #2e2f42;
 }
 
 <!--Camila Garciav-->
@@ -332,7 +371,7 @@ color: var(--slate);
   width: 264px;
   height: 380px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-background: var(--white);
+background:  #FFFFFF;
 }
 
 .camila {
@@ -352,7 +391,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
-color: var(--slate);
+color:  #2e2f42;
 }
 
 <!--Daniel Wilson-->
@@ -362,7 +401,7 @@ color: var(--slate);
   width: 264px;
   height: 380px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-background: var(--white);
+background:  #FFFFFF;
 }
 
 .team-card-daniel {
@@ -387,7 +426,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
-color: var(--slate);
+color:  #2e2f42;
 }
 
 <!--Секція номер №3-->
@@ -623,16 +662,29 @@ height: 312px;
 .footer-webstudio {
   width: 115px;
   height: 24px;
+  background-color: #2e2f42 
 }
 
 .web-footer {
-  font-family: var(--second-family);
+  font-family:  
+  "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 117%;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: var(--iris);
+color: #4d5ae5;
+}
+
+.web-footer-st {
+  font-family:  
+  "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #f4f4fd 
 }
 
 .text-increase {
@@ -641,5 +693,5 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--cloud);
+color: #F4F4FD;
 }
