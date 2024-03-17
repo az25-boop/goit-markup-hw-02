@@ -1,123 +1,113 @@
 body {
-    font-family: 
-    "Roboto", sans-serif;
-    font-family:
-    "Raleway", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF
-  }
+  font-family: 
+  "Roboto", sans-serif;
+  color: #434455;
+  background-color: #FFFFFF
+}
 
- a:link {
-    text-decoration: none;
-  }
-  
-  a:visited {
-    text-decoration: none;
-    color
-  }
-  
-  a:hover {
-    text-decoration: none;
-    color: #2ecc71
-  }
-  
-  a:active {
-    text-decoration: none;
-  }
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color
+}
+
+a:hover {
+  text-decoration: none;
+  color: #2ecc71
+}
+
+a:active {
+  text-decoration: none;
+}
 
 <!---header-->
 
 .web {
-  font-family: Raleway;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 117%;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
+font-family: Raleway;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
 }
 
 .studio {
-  font-family: Raleway;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 117%;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2E2F42;
+font-family: Raleway;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;
 }
 
 
 <!--Main Page-->
 .main {
-  width: 1440px;
-  height: 3300px;
-  background: #2e2f42;
+background: #2e2f42;
 }
 
 <!--hero_image-->
 .hero-imag {
-  width: 1440px;
-  height: 600px;
 }
 
 <!--header-->
 .top-line {
-  width: 1440px;
-  height: 72px;
 }
 
 .menu-nav {
-  width: 261px;
-height: 24px;
 }
 
 .studio-li {
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
 }
 
 .portfolio-li {
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
 }
 
 .contacts-li {
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
 }
 
 .address {
-  font-style: normal;
+font-style: normal;
 }
 
 .mailto {
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
 }
 
 .mailto-to:hover,:focus {
-  color: #404bbf
+color: #404bbf
 }
 
 .telme {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -127,77 +117,65 @@ color: #434455;
 
 telme-me:hover,
 telme-me:focus {
-  color: #404bbf
+color: #404bbf
 }
 
 <!--Секція номер №1-->
 .main {
-  width: 1440px;
-  height: 3300px;
-  background: var(--white);
+background: #2e2f42;
 }
 
 .hero-image {
-  width: 1440px;
-  height: 600px;
 }
 
 .hero-image-title {
-  font-family: var(--font-family);
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 107%;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #ffffff;
+font-family: var(--font-family);
+font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
 }
 
 .button {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500
-  border-radius: 4px;
-  padding: 16px 32px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  width: 169px;
-  height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background:hover, :focus #4D5AE5;
-  color: #ffffff;
+font-family: "Roboto", sans-serif;
+font-weight: 500
+line-height: 1.5;
+letter-spacing: 0.04em;
+background-color:hover, :focus #4D5AE5;
+color: #ffffff;
+cursor: pointer;
 }
 
 .section-one {
-  width: 1128px;
-  height: 104px;
-  background-color: #2e2f42;
+background-color: #2e2f42;
 }
 
 .title-dynamic {
-  font-family: var(--font-family);
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 107%;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #ffffff;
+font-family: var(--font-family);
+font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
 }
 
 .box-strategy {
-  width: 264px;
-  height: 104px;
 }
 
 .strategy {
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 120%;
-  letter-spacing: 0.02em;
-  color: #434455;
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: #434455;
 }
 
 .strategy-our {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -206,12 +184,10 @@ color: #434455;
 }
 
 .box-punctuality {
-  width: 264px;
-  height: 104px; 
 }
 
 .punctuality {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -220,21 +196,19 @@ color: #434455;
 }
 
 .punctuality-bring {
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
 }
 
 .box-diligence {
-  width: 264px;
-height: 104px;
 }
 
 .diligence {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -243,21 +217,19 @@ color: #434455;
 }
 
 .diligence-research {
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
 }
 
 .box-technologies {
-  width: 264px;
-height: 104px;
 }
 
 .technologies {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -267,7 +239,7 @@ color: #434455;
 
 
 .technologies-design {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -277,13 +249,11 @@ color: #434455;
 
 <!--Секція номер №2-->
 .section-two {
-  width: 1440px;
-  height: 732px;
-  background: #F4F4FD;
+background: #F4F4FD;
 }
 
 .ourteam {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 700;
 font-size: 36px;
 line-height: 111%;
@@ -295,31 +265,24 @@ color: #2e2f42;
 
 <!--Mark Guerrero-->
 .box-team-one {
-  border-radius: 0 0 4px 4px;
-padding: 0px 0px 32px 0px;
-width: 264px;
-height: 380px;
-box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background: #FFFFFF;
 }
 
 .team-card-mark {
-  width: 264px;
-height: 260px;
 }
- 
+
 .mark {
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 120%;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: var(--navy-blue);
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+text-align: center;
+color: var(--navy-blue);
 }
 
 .mark-designer {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -330,21 +293,14 @@ color:  #2e2f42;
 
 <!--Tom Ford-->
 .box-team-two {
-  border-radius: 0 0 4px 4px;
-padding: 0px 0px 32px 0px;
-width: 264px;
-height: 380px;
-box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background: #FFFFFF;
 }
 
 .team-card-ford {
-  width: 264px;
-height: 260px;
 }
 
 .tomford {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -355,7 +311,7 @@ color: var(--navy-blue);
 
 
 .tomford-rontend {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -366,16 +322,11 @@ color:  #2e2f42;
 
 <!--Camila Garciav-->
 .box-team-three {
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
-  width: 264px;
-  height: 380px;
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background:  #FFFFFF;
 }
 
 .camila {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -385,7 +336,7 @@ color: var(--navy-blue);
 }
 
 .camila-marketing {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -396,21 +347,14 @@ color:  #2e2f42;
 
 <!--Daniel Wilson-->
 .box-team-four {
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
-  width: 264px;
-  height: 380px;
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background:  #FFFFFF;
 }
 
 .team-card-daniel {
-  width: 264px;
-height: 260px;
 }
 
 .daniel {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -420,7 +364,7 @@ color: var(--navy-blue);
 }
 
 .daniel-designer {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -431,12 +375,10 @@ color:  #2e2f42;
 
 <!--Секція номер №3-->
 .section-three {
-  width: 1128px;
-height: 1000px;
 }
 
 .portfolio {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 700;
 font-size: 36px;
 line-height: 111%;
@@ -449,55 +391,44 @@ color: #2e2f42;
 <!--ROW 1-->
 <!--Card 1-->
 .row-one {
-  width: 1128px;
-height: 420px;
 }
 
 .card-banking {
-  width: 360px;
-height: 420px;
 background: var(--white);
 }
 
 .card-banking-img {
-  width: 360px;
-  height: 300px;
 }
 
 .bankingapp {
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 120%;
-  letter-spacing: 0.02em;
-  color:  #2e2f42;
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color:  #2e2f42;
 }
 
 .app {
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
 }
 
 <!--ROW 1-->
 <!--Card 2-->
 .card-cashless {
-  border: 1px solid var(--cornflower);
-  width: 360px;
-  height: 420px;
-  background: var(--white);
+background: var(--white);
 }
 
 .card-cashless-img {
-  width: 360px;
-height: 300px;
 }
 
 .cashless {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -506,7 +437,7 @@ color: #2e2f42;
 }
 
 .marketing-cashless {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -518,21 +449,13 @@ color: #434455;
 <!--Card 3-->
 
 .card-meditaion {
-  border-bottom: 1px solid var(--cornflower);
-border-left: 1px solid var(--cornflower);
-border-right: 1px solid var(--cornflower);
-padding: 32px 16px;
-width: 360px;
-height: 120px;
 }
 
 .card-meditaion-img {
-  width: 360px;
-height: 300px;
 }
 
 .meditaion-app {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -541,7 +464,7 @@ color: #2e2f42;
 }
 
 .app-meditaion {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -552,21 +475,13 @@ color: #434455;
 <!--ROW 2-->
 <!--Card 1-->
 .card-taxi {
-  border-bottom: 1px solid var(--cornflower);
-border-left: 1px solid var(--cornflower);
-border-right: 1px solid var(--cornflower);
-padding: 32px 16px;
-width: 360px;
-height: 120px;
 }
 
 .card-taxi-img {
-  width: 360px;
-height: 300px;
 }
 
 .taxi-service {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -575,7 +490,7 @@ color: #2e2f42;
 }
 
 .marketing-taxi-service {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -587,21 +502,13 @@ color: #434455;
 <!--ROW 2-->
 <!--Card 2-->
 .card-screen {
-  border-bottom: 1px solid var(--cornflower);
-border-left: 1px solid var(--cornflower);
-border-right: 1px solid var(--cornflower);
-padding: 32px 16px;
-width: 360px;
-height: 120px;
 }
 
 .card-screen-img {
-  width: 360px;
-height: 300px;
 }
 
 .screenllustrations {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -610,7 +517,7 @@ color: #2e2f42;
 }
 
 .design {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -621,21 +528,13 @@ color: #434455;
 <!--ROW 2-->
 <!--Card 3-->
 .card-online {
-  border-bottom: 1px solid var(--cornflower);
-border-left: 1px solid var(--cornflower);
-border-right: 1px solid var(--cornflower);
-padding: 32px 16px;
-width: 360px;
-height: 120px;
 }
 
 .card-online-img {
-  width: 360px;
-height: 300px;
 }
 
 .onlinecourses {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -644,7 +543,7 @@ color: #2e2f42;
 }
 
 .marketing-onlinecourses {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -655,19 +554,15 @@ color: #434455;
 
 <!--footer-->
 .footer {
-  width: 1440px;
-height: 312px;
 }
 
 .footer-webstudio {
-  width: 115px;
-  height: 24px;
-  background-color: #2e2f42 
+background-color: #2e2f42 
 }
 
 .web-footer {
-  font-family:  
-  "Raleway", sans-serif;
+font-family:  
+"Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
@@ -677,8 +572,8 @@ color: #4d5ae5;
 }
 
 .web-footer-st {
-  font-family:  
-  "Raleway", sans-serif;
+font-family:  
+"Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
@@ -688,7 +583,7 @@ color: #f4f4fd
 }
 
 .text-increase {
-  font-family: var(--font-family);
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
