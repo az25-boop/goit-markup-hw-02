@@ -60,6 +60,27 @@ background: #2e2f42;
 }
 
 .menu-nav {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+font-size: 18px;
+line-height: 177%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+.logo {
+  font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color:#2e2f42;
+color:hover #404bbf;
+color:focus #404bbf;
+}
+
+.studio {
+  color: #2e2f42;
 }
 
 .studio-li {
@@ -115,9 +136,8 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-telme-me:hover,
-telme-me:focus {
-color: #404bbf
+.telme-me:hover,:focus {
+  color: #404bbf
 }
 
 <!--Секція номер №1-->
@@ -148,6 +168,7 @@ color: #ffffff;
 cursor: pointer;
 }
 
+<!--Секція номер №2-->
 .section-one {
 background-color: #2e2f42;
 }
@@ -247,7 +268,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-<!--Секція номер №2-->
+<!--Секція номер №3-->
 .section-two {
 background: #F4F4FD;
 }
@@ -272,13 +293,13 @@ background: #FFFFFF;
 }
 
 .mark {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-text-align: center;
-color: var(--navy-blue);
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .mark-designer {
@@ -300,24 +321,24 @@ background: #FFFFFF;
 }
 
 .tomford {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-text-align: center;
-color: var(--navy-blue);
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 
 .tomford-rontend {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-text-align: center;
-color:  #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color:  #2e2f42;
 }
 
 <!--Camila Garciav-->
@@ -326,23 +347,23 @@ background:  #FFFFFF;
 }
 
 .camila {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-text-align: center;
-color: var(--navy-blue);
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .camila-marketing {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-text-align: center;
-color:  #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color:  #2e2f42;
 }
 
 <!--Daniel Wilson-->
@@ -354,13 +375,13 @@ background:  #FFFFFF;
 }
 
 .daniel {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-text-align: center;
-color: var(--navy-blue);
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .daniel-designer {
@@ -373,8 +394,9 @@ text-align: center;
 color:  #2e2f42;
 }
 
-<!--Секція номер №3-->
+<!--Секція номер №4-->
 .section-three {
+  background-color: #F4F4FD
 }
 
 .portfolio {
@@ -394,7 +416,7 @@ color: #2e2f42;
 }
 
 .card-banking {
-background: var(--white);
+  background-color: #FFFFFF;
 }
 
 .card-banking-img {
@@ -421,60 +443,62 @@ color: #434455;
 <!--ROW 1-->
 <!--Card 2-->
 .card-cashless {
-background: var(--white);
+background-color: #FFFFFF;
 }
 
 .card-cashless-img {
 }
 
 .cashless {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .marketing-cashless {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 <!--ROW 1-->
 <!--Card 3-->
 
 .card-meditaion {
+  background-color: #FFFFFF
 }
 
 .card-meditaion-img {
 }
 
 .meditaion-app {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .app-meditaion {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 <!--ROW 2-->
 <!--Card 1-->
 .card-taxi {
+  background-color: #FFFFFF 
 }
 
 .card-taxi-img {
@@ -502,6 +526,7 @@ color: #434455;
 <!--ROW 2-->
 <!--Card 2-->
 .card-screen {
+  background-color: #FFFFFF 
 }
 
 .card-screen-img {
@@ -528,6 +553,7 @@ color: #434455;
 <!--ROW 2-->
 <!--Card 3-->
 .card-online {
+  background-color: #FFFFFF 
 }
 
 .card-online-img {
@@ -557,6 +583,14 @@ color: #434455;
 }
 
 .footer-webstudio {
+  font-family:  
+"Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
 background-color: #2e2f42 
 }
 
@@ -568,7 +602,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color: #f4f4fd;
 }
 
 .web-footer-st {
