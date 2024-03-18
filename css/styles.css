@@ -158,12 +158,13 @@ letter-spacing: 0.02em;
 color: #ffffff;
 }
 
-.button {
+.button:hover,
+.button:focus {
 font-family: "Roboto", sans-serif;
 font-weight: 500
-line-height: 1.5;
+line-height: 150%;
 letter-spacing: 0.04em;
-background-color:hover, :focus #4D5AE5;
+background-color: #4D5AE5;
 color: #ffffff;
 cursor: pointer;
 }
@@ -180,7 +181,7 @@ font-size: 56px;
 line-height: 107%;
 text-align: center;
 letter-spacing: 0.02em;
-color: #ffffff;
+color: #2e2f42;
 }
 
 .box-strategy {
@@ -192,7 +193,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: #434455;
+color: #2e2f42;
 }
 
 .strategy-our {
@@ -213,7 +214,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: #434455;
+color: #2e2f42;
 }
 
 .punctuality-bring {
@@ -234,7 +235,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: #434455;
+color: #2e2f42;
 }
 
 .diligence-research {
@@ -255,9 +256,8 @@ font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
-color: #434455;
+color: #2e2f42;
 }
-
 
 .technologies-design {
 font-family: var(--font-family);
