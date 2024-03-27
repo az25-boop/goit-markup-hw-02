@@ -2,7 +2,7 @@ body {
   font-family: 
   "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF
+  background-color: #FFFFFF;
 }
 
 a:link {
@@ -11,19 +11,18 @@ a:link {
 
 a:visited {
   text-decoration: none;
-  color
 }
 
 a:hover {
   text-decoration: none;
-  color: #2ecc71
+  color: #2ecc71;
 }
 
 a:active {
   text-decoration: none;
 }
 
-<!---header-->
+/* <!---header--> */
 
 .web {
 font-family: Raleway;
@@ -46,16 +45,16 @@ color: #2E2F42;
 }
 
 
-<!--Main Page-->
+/* <!--Main Page--> */
 .main {
 background: #2e2f42;
 }
 
-<!--hero_image-->
+/* <!--hero_image--> */
 .hero-imag {
 }
 
-<!--header-->
+/* <!--header--> */
 .top-line {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -139,7 +138,7 @@ color: #434455;
   color: #404bbf
 }
 
-<!--Секція номер №1-->
+/* <!--Секція номер №1--> */
 .main {
 background: #2e2f42;
 }
@@ -160,7 +159,7 @@ color: #ffffff;
 .button:hover,
 .button:focus {
 font-family: "Roboto", sans-serif;
-font-weight: 500
+font-weight: 500;
 line-height: 150%;
 letter-spacing: 0.04em;
 background-color: #4D5AE5;
@@ -168,7 +167,7 @@ color: #ffffff;
 cursor: pointer;
 }
 
-<!--Секція номер №2-->
+/* <!--Секція номер №2--> */
 .section-one {
 background-color: #2e2f42;
 }
@@ -267,7 +266,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-<!--Секція номер №3-->
+/* <!--Секція номер №3--> */
 .section-two {
 background: #F4F4FD;
 }
@@ -283,7 +282,7 @@ text-align: center;
 color: #2e2f42;
 }
 
-<!--Mark Guerrero-->
+/* <!--Mark Guerrero--> */
 .box-team-one {
 background: #FFFFFF;
 }
@@ -311,7 +310,7 @@ text-align: center;
 color:  #2e2f42;
 }
 
-<!--Tom Ford-->
+/* <!--Tom Ford--> */
 .box-team-two {
 background: #FFFFFF;
 }
@@ -340,7 +339,7 @@ background: #FFFFFF;
   color:  #2e2f42;
 }
 
-<!--Camila Garciav-->
+/* <!--Camila Garciav--> */
 .box-team-three {
 background:  #FFFFFF;
 }
@@ -365,7 +364,7 @@ background:  #FFFFFF;
   color:  #2e2f42;
 }
 
-<!--Daniel Wilson-->
+/* <!--Daniel Wilson--> */
 .box-team-four {
 background:  #FFFFFF;
 }
@@ -393,7 +392,7 @@ text-align: center;
 color:  #2e2f42;
 }
 
-<!--Секція номер №4-->
+/* <!--Секція номер №4--> */
 .section-three {
   background-color: #F4F4FD
 }
@@ -409,8 +408,8 @@ text-align: center;
 color: #2e2f42;
 }
 
-<!--ROW 1-->
-<!--Card 1-->
+/* <!--ROW 1-->
+<!--Card 1--> */
 .row-one {
 }
 
@@ -439,8 +438,8 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-<!--ROW 1-->
-<!--Card 2-->
+/* <!--ROW 1-->
+<!--Card 2--> */
 .card-cashless {
 background-color: #FFFFFF;
 }
@@ -466,8 +465,8 @@ background-color: #FFFFFF;
   color: #434455;
 }
 
-<!--ROW 1-->
-<!--Card 3-->
+/* <!--ROW 1-->
+<!--Card 3--> */
 
 .card-meditaion {
   background-color: #FFFFFF
@@ -494,8 +493,8 @@ background-color: #FFFFFF;
   color: #434455;
 }
 
-<!--ROW 2-->
-<!--Card 1-->
+/* <!--ROW 2-->
+<!--Card 1--> */
 .card-taxi {
   background-color: #FFFFFF 
 }
@@ -522,8 +521,8 @@ color: #434455;
 }
 
 
-<!--ROW 2-->
-<!--Card 2-->
+/* <!--ROW 2--> */
+/* <!--Card 2--> */
 .card-screen {
   background-color: #FFFFFF 
 }
@@ -549,7 +548,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-<!--ROW 2-->
+/* <!--ROW 2--> */
 <!--Card 3-->
 .card-online {
   background-color: #FFFFFF 
@@ -577,7 +576,7 @@ color: #434455;
 }
 
 
-<!--footer-->
+/* <!--footer--> */
 
 .footer {
   background: #2e2f42;
