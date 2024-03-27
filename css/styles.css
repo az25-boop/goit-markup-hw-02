@@ -1,8 +1,7 @@
 body {
-  font-family: 
-  "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 a:link {
@@ -25,29 +24,28 @@ a:active {
 /* <!---header--> */
 
 .web {
-font-family: Raleway;
-font-weight: 700;
-font-size: 18px;
-line-height: 117%;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .studio {
-font-family: Raleway;
-font-weight: 700;
-font-size: 18px;
-line-height: 117%;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #2E2F42;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
 }
-
 
 /* <!--Main Page--> */
 .main {
-background: #2e2f42;
+  background: #2e2f42;
 }
 
 /* <!--hero_image--> */
@@ -56,23 +54,23 @@ background: #2e2f42;
 
 /* <!--header--> */
 .top-line {
-font-family: "Raleway", sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 177%;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 177%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .logo {
-font-family: "Raleway", sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 177%;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 177%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .studio {
@@ -80,211 +78,208 @@ color: #4d5ae5;
 }
 
 .studio-li {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #2e2f42;
-color:hover #404bbf;
-color:focus #404bbf;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  color: hover #404bbf;
+  color: focus #404bbf;
 }
 
 .portfolio-li {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: var(--navy-blue);
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
 }
 
 .contacts-li {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: var(--navy-blue);
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
 }
 
 .address {
-font-style: normal;
+  font-style: normal;
 }
 
 .mailto {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.mailto-to:hover,:focus {
-color: #404bbf
+.mailto-to:hover,
+:focus {
+  color: #404bbf;
 }
 
 .telme {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.telme-me:hover,:focus {
-  color: #404bbf
+.telme-me:hover,
+:focus {
+  color: #404bbf;
 }
 
 /* <!--Секція номер №1--> */
 .main {
-background: #2e2f42;
+  background: #2e2f42;
 }
 
 .hero-image {
 }
 
 .hero-image-title {
-font-family: var(--font-family);
-font-weight: 700;
-font-size: 56px;
-line-height: 107%;
-text-align: center;
-letter-spacing: 0.02em;
-color: #ffffff;
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
 
 .button:hover,
 .button:focus {
-font-family: "Roboto", sans-serif;
-font-weight: 500;
-line-height: 150%;
-letter-spacing: 0.04em;
-background-color: #4D5AE5;
-color: #ffffff;
-cursor: pointer;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
 }
 
 /* <!--Секція номер №2--> */
 .section-one {
-background-color: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .title-dynamic {
-font-family: var(--font-family);
-font-weight: 700;
-font-size: 56px;
-line-height: 107%;
-text-align: center;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .box-strategy {
 }
 
 .strategy {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .strategy-our {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .box-punctuality {
 }
 
 .punctuality {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .punctuality-bring {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .box-diligence {
 }
 
 .diligence {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
-}
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 
-.diligence-research {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+.diligence-res {
+  font-family: var(--font-family);
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .box-technologies {
 }
 
 .technologies {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .technologies-design {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* <!--Секція номер №3--> */
 .section-two {
-background: #F4F4FD;
+  background: #f4f4fd;
 }
 
 .ourteam {
-font-family: var(--font-family);
-font-weight: 700;
-font-size: 36px;
-line-height: 111%;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-text-align: center;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
 }
 
 /* <!--Mark Guerrero--> */
 .box-team-one {
-background: #FFFFFF;
+  background: #ffffff;
 }
 
 .team-card-mark {
@@ -301,18 +296,18 @@ background: #FFFFFF;
 }
 
 .mark-designer {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-text-align: center;
-color:  #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 /* <!--Tom Ford--> */
 .box-team-two {
-background: #FFFFFF;
+  background: #ffffff;
 }
 
 .team-card-ford {
@@ -328,7 +323,6 @@ background: #FFFFFF;
   color: #2e2f42;
 }
 
-
 .tomford-rontend {
   font-family: var(--font-family);
   font-weight: 400;
@@ -336,12 +330,12 @@ background: #FFFFFF;
   line-height: 150%;
   letter-spacing: 0.02em;
   text-align: center;
-  color:  #2e2f42;
+  color: #2e2f42;
 }
 
 /* <!--Camila Garciav--> */
 .box-team-three {
-background:  #FFFFFF;
+  background: #ffffff;
 }
 
 .camila {
@@ -361,12 +355,12 @@ background:  #FFFFFF;
   line-height: 150%;
   letter-spacing: 0.02em;
   text-align: center;
-  color:  #2e2f42;
+  color: #2e2f42;
 }
 
 /* <!--Daniel Wilson--> */
 .box-team-four {
-background:  #FFFFFF;
+  background: #ffffff;
 }
 
 .team-card-daniel {
@@ -383,29 +377,29 @@ background:  #FFFFFF;
 }
 
 .daniel-designer {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-text-align: center;
-color:  #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 /* <!--Секція номер №4--> */
 .section-three {
-  background-color: #F4F4FD
+  background-color: #f4f4fd;
 }
 
 .portfolio {
-font-family: var(--font-family);
-font-weight: 700;
-font-size: 36px;
-line-height: 111%;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-text-align: center;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
 }
 
 /* <!--ROW 1-->
@@ -414,34 +408,34 @@ color: #2e2f42;
 }
 
 .card-banking {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .card-banking-img {
 }
 
 .bankingapp {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color:  #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .app {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* <!--ROW 1-->
 <!--Card 2--> */
 .card-cashless {
-background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .card-cashless-img {
@@ -469,7 +463,7 @@ background-color: #FFFFFF;
 <!--Card 3--> */
 
 .card-meditaion {
-  background-color: #FFFFFF
+  background-color: #ffffff;
 }
 
 .card-meditaion-img {
@@ -496,85 +490,82 @@ background-color: #FFFFFF;
 /* <!--ROW 2-->
 <!--Card 1--> */
 .card-taxi {
-  background-color: #FFFFFF 
+  background-color: #ffffff;
 }
 
 .card-taxi-img {
 }
 
 .taxi-service {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .marketing-taxi-service {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
-
 
 /* <!--ROW 2--> */
 /* <!--Card 2--> */
 .card-screen {
-  background-color: #FFFFFF 
+  background-color: #ffffff;
 }
 
 .card-screen-img {
 }
 
 .screenllustrations {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .design {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* <!--ROW 2--> */
-<!--Card 3-->
-.card-online {
-  background-color: #FFFFFF 
+<!--Card 3-- > .card-online {
+  background-color: #ffffff;
 }
 
 .card-online-img {
 }
 
 .onlinecourses {
-font-family: var(--font-family);
-font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .marketing-onlinecourses {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
-
 
 /* <!--footer--> */
 
@@ -583,26 +574,24 @@ color: #434455;
 }
 
 .footer-webstudio {
-font-family:  
-"Raleway", sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5; 
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
-
 
 .web-footer-st {
   color: #f4f4fd;
 }
 
 .text-increase {
-font-family: var(--font-family);
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #f4f4fd;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
