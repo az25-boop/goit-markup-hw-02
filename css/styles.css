@@ -59,24 +59,14 @@ background: #2e2f42;
 .top-line {
 }
 
-.menu-nav {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
+.logo {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
 font-size: 18px;
 line-height: 177%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-}
-
-.logo {
-  font-weight: 500;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color:#2e2f42;
-color:hover #404bbf;
-color:focus #404bbf;
 }
 
 .studio {
@@ -89,7 +79,9 @@ font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--navy-blue);
+color: #2e2f42;
+color:hover #404bbf;
+color:focus #404bbf;
 }
 
 .portfolio-li {
