@@ -57,6 +57,9 @@ a:active {
 }
 
 .menu-nav {
+}
+
+.menu-nav-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -64,9 +67,6 @@ a:active {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-}
-
-.logo {
 }
 
 .studio {
