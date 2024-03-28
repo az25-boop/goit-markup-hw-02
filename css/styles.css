@@ -119,10 +119,8 @@ a:active {
   color: #434455;
 }
 
-.mailto-to:hover,
-.mailto-to:focus,
-.studio-li:hover,
-.studio-li:focus {
+.mailto-to:hover, .mailto-to:focus,
+.studio-li:hover, .studio-li:focus {
   color: #404bbf;
 }
 
