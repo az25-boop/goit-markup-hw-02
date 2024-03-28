@@ -49,6 +49,7 @@ a:active {
 
 /* <!--hero_image--> */
 .hero-imag {
+  background-color: #2e2f42;
 }
 
 /* <!--header--> */
@@ -142,10 +143,10 @@ a:active {
 
 /* <!--Секція номер №1--> */
 .main {
-  background-color: #2e2f42;
 }
 
 .hero-image {
+  background-color: #2e2f42;
 }
 
 .hero-image-title {
