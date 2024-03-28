@@ -159,6 +159,17 @@ a:active {
   color: #ffffff;
 }
 
+.button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
 .button:hover,
 .button:focus {
   font-family: "Roboto", sans-serif;
@@ -167,7 +178,6 @@ a:active {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  background-color: #4d5ae5;
 }
 
 /* <!--Секція номер №2--> */
