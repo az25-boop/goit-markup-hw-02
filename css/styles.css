@@ -87,11 +87,7 @@ a:active {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.studio-li:hover,
-.studio-li:focus {
-  color: #404bbf;
+  color:hover #404bbf;
 }
 
 .portfolio-li {
