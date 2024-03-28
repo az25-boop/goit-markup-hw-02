@@ -119,14 +119,11 @@ a:active {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
-  color:hover #404bbf;
 }
 
-.mailto-to
- {
-  color: #434455;
-  color:hover,
-  :focus #404bbf;
+.mailto-to :hover,
+.mailto-to :focus {
+  background-color: #404bbf;
 }
 
 .telme {
