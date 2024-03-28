@@ -118,10 +118,11 @@ a:active {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
 }
 
-.mailto-to :hover,
+.mailto-to
+:hover,
 :focus {
   color: #404bbf;
 }
