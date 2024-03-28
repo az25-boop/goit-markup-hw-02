@@ -87,7 +87,7 @@ a:active {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  color:hover #404bbf;
+  color: hover #404bbf;
 }
 
 .portfolio-li {
@@ -112,17 +112,17 @@ a:active {
   font-style: normal;
 }
 
-.mailto {
-  font-family: var(--font-family);
-  font-weight: 400;
+.mailto-to {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.mailto:hover,
-.mailto:focus {
+.mailto-to:hover,
+.mailto-to:focus,
+.studio-li:hover,
+.studio-li:focus {
   color: #404bbf;
 }
 
@@ -181,7 +181,7 @@ a:active {
 
 .button:hover,
 .button:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 /* <!--Секція номер №2--> */
@@ -259,9 +259,8 @@ a:active {
   line-height: 150%;
   letter-spacing: 0.02em;
   text-align: center;
-  color:  #434455;
+  color: #434455;
 }
-
 
 /* <!--Секція номер №4--> */
 .section-three {
