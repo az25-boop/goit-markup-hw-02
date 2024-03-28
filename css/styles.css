@@ -122,9 +122,10 @@ a:active {
 }
 
 .mailto-to
-:hover,
-:focus {
-  color: #404bbf;
+ {
+  color: #434455;
+  color:hover,
+  :focus #404bbf;
 }
 
 .telme {
