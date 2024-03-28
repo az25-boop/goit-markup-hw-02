@@ -119,6 +119,7 @@ a:active {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  color:hover #404bbf;
 }
 
 .mailto-to
