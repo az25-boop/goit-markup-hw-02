@@ -125,10 +125,10 @@ a:active {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
 
-.mailto-to:hover,
+.mailto-to :hover,
 :focus {
   color: #404bbf;
 }
@@ -142,7 +142,7 @@ a:active {
   color: #434455;
 }
 
-.telme-me:hover,
+.telme-me :hover,
 :focus {
   color: #404bbf;
 }
@@ -603,5 +603,5 @@ a:active {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: #F4F4FD;
+  color: #f4f4fd;
 }
