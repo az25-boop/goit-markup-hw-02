@@ -121,9 +121,9 @@ a:active {
   color: #434455;
 }
 
-.mailto-to :hover,
-.mailto-to :focus {
-  background-color: #404bbf;
+.mailto:hover,
+.mailto:focus {
+  color: #404bbf;
 }
 
 .telme {
